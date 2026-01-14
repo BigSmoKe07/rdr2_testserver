@@ -10,3 +10,6 @@
 [submodule "[standalone]/oxmysql"]
 	path = [standalone]/oxmysql
 	url = https://github.com/overextended/oxmysql.git
+[submodule "[bcc]/bcc-corehud"]
+	path = [bcc]/bcc-corehud
+	url = https://github.com/BigSmoKe07/bcc-corehud.git
