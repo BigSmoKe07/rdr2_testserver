@@ -1,3 +1,6 @@
 [submodule "[vorp]/vorp_core"]
 	path = [vorp]/vorp_core
 	url = https://github.com/BigSmoKe07/vorp_core.git
+[submodule "[vorp]/vorp_lib"]
+	path = [vorp]/vorp_lib
+	url = https://github.com/VORPCORE/vorp_lib.git
