@@ -13,3 +13,6 @@
 [submodule "[bcc]/bcc-corehud"]
 	path = [bcc]/bcc-corehud
 	url = https://github.com/BigSmoKe07/bcc-corehud.git
+[submodule "[dep]/feather-menu"]
+	path = [dep]/feather-menu
+	url = https://github.com/FeatherFramework/feather-menu.git
