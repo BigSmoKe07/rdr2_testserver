@@ -13,3 +13,6 @@
 [submodule "[dep]/feather-menu"]
 	path = [dep]/feather-menu
 	url = https://github.com/FeatherFramework/feather-menu.git
+[submodule "[dep]/bcc-utils"]
+	path = [dep]/bcc-utils
+	url = https://github.com/BryceCanyonCounty/bcc-utils.git
